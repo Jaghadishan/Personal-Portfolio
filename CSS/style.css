@@ -1,0 +1,206 @@
+*{
+	font-size: 100%;
+	font-weight: normal;
+	margin: 0
+}
+
+h1{
+	font-size: 2em;
+	font-weight: bold;
+    padding-top: 25px
+}
+
+h2{
+	font-size: 1.5em;
+	font-weight: bold;
+	color: green;
+}
+
+h3{
+	font-size: 2em;
+	font-weight: bold;
+    padding-top: 60px;
+}
+
+h4{
+    font-weight: bold;
+    font-size: 1.5em;
+}
+
+.Header {
+    height: 90px
+}
+
+.Header h1{
+    font-family: 'Jua', sans-serif;
+}
+
+.Banner {
+    height: 600px;
+    background: #34495E;
+}
+
+.Banner h2{
+    padding-top: 250px;
+    text-align: center;
+}
+
+.Banner h2 span{
+    font-family: 'Merriweather', serif;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    color: #fff;
+}
+
+.Banner h2 .first{
+    color: white;
+}
+
+.Banner h2 .last{
+    color: red;
+}
+
+.Banner p{
+    text-align: center;
+    margin-top: 20px;
+}
+
+.Banner p a{
+    display: inline-block;
+    font-size: 18px;
+    border: solid 1px #fff;
+    padding: 18px;
+    color: #fff;
+}
+
+.Education {
+    height: 600px;
+    background: white;
+}
+
+table.Table {
+  font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+  border: 1px solid #1C6EA4;
+  background-color: #FFFFFF;
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+table.Table td, table.Table th {
+  border: 2px solid #000000;
+  padding: 10px 10px;
+}
+
+table.Table tbody td {
+  font-size: 18px;
+  color: #000000;
+}
+
+table.Table thead {
+    border-bottom: 2px solid #444444;
+}
+
+table.Table thead th {
+  font-size: 18px;
+  font-weight: bold;
+  color: #000000;
+  text-align: center;
+}
+
+table.Table tfoot td {
+  font-size: 18px;
+}
+
+table.Table tfoot .links {
+  text-align: right;
+}
+
+table.Table tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+
+.Field-Of-Interest {
+    height: 850px;
+    background: #3A539B;
+}
+
+.box{
+display: inline-block;
+width: 30%;
+background: white;
+padding: 10px;
+margin: 10px;
+}
+
+.img{
+    text-align: center;
+}
+
+.Projects {
+    height: 900px;
+    background: white;
+}
+
+.box1{
+display: inline-block;
+width: 45%;
+background: #ccc;
+padding: 10px;
+margin: 10px;
+}
+
+.img1{
+    text-align: center;
+}
+
+.Personal-Information {
+    height: 600px;
+    background: #4B77BE;
+}
+
+table.Table1 {
+  font-family: Georgia, serif;
+  background-color: #FFFFFF;
+  width: 100%;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+table.Table1 td, table.Table1 th {
+  border: 2px solid #000000;
+  padding: 10px 10px;
+}
+
+table.Table1 tbody td {
+  font-size: 13px;
+  color: #000000;
+}
+
+table.Table1 tfoot td {
+  font-size: 13px;
+}
+
+table.Table1 tfoot .links {
+  text-align: right;
+}
+
+table.Table1 tfoot .links a{
+  display: inline-block;
+  background: #1C6EA4;
+  color: #FFFFFF;
+  padding: 2px 8px;
+  border-radius: 5px;
+}
+
+.Footer {
+    height: 100px;
+    background: black;
+    color: white;
+    padding-top: 40px
+}
